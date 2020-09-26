@@ -73,6 +73,7 @@ public class Connector {
             }
 
 
+            System.out.println();
 
             statement.close();
             connection.close();
